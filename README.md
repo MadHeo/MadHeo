@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MadHeo/MadHeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=kwanggimad&fontSize=100"/>
-  </p>
-<p align="center">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&&color=auto&height=200&section=header&text=kwanggi!&fontSize=60"/>
+ <p>
+  <a href = "https://img2.daumcdn.net/thumb/R658x0.q70/?fname=https://t1.daumcdn.net/news/202105/25/cineplay/20210525083303649vbfo.jpg">
+    <p>
+      
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"/>
-</p>
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FqKwUQ%2FbtrEibbP0tl%2FDkqFO3Jl370AFgS3KIEMok%2Fimg.png"/>
+      </p>
+    <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=MadHeo&theme=dark&show_icons=true"/)
+         </p>
+      <p>
+             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MadHeo&theme=dark&show_icons=true" width = 500/)
+    </p>
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=&fontSize=100"/>
+        </a>
+</div>
+
 
 
 
