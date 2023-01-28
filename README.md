@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Mad, Heo
 
-### 😄 FrontEnd Student<br/>
+### ☺️ FrontEnd Student<br/>
 
 ### ✏️ What I'm learnung now <br/>
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
