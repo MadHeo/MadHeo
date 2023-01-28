@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### 📙 [Blog](https://drakon.tistory.com/)
 
-### 📊 Stats(https://drakon.tistory.com/)
+### 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadHeo&theme=dark&show_icons=true)
 
 
