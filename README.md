@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="left">
  <h1>Mad, Heo</h1>
  <div></div>
- <p📟 FrontEnd</p>
+ <p>📟 FrontEnd</p>
  <p>🪬 What I can do</p>
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
