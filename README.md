@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Mad, Heo
 
-### ☺️ FrontEnd Student<br/>
+### ☺️ Learning FrontEnd<br/>
 
 ### 📙 [Blog](https://drakon.tistory.com/)
 
